@@ -1,0 +1,8 @@
+//
+create table account_details ( id int not null auto_increment, first_name varchar(200),
+last_name varchar(200), username varchar(100) unique, pass_word varchar(200), 
+location varchar(140), country varchar(100), primary key (id) );
+
+//
+create table metrics ();
+

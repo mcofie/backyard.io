@@ -6,7 +6,15 @@ but this time in a mechanised way because _We Clearly Live In Busy World_.
 
 
 ## How it works
-This is built using 
+### Software  
 1. Raspberry Pi
+2. MySQL
+3. pymysql library
+4. Written in Python
 
 
+### Hardware Components
+1. Raspberry Pi
+2. Soil Moisture Sensor
+3. Soil Temperature Sensor
+4. Light 
