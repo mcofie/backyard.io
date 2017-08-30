@@ -17,4 +17,4 @@ but this time in a mechanised way because _We Clearly Live In Busy World_.
 1. Raspberry Pi
 2. Soil Moisture Sensor
 3. Soil Temperature Sensor
-4. Light 
+4. Light(Sunlight) Sensor
