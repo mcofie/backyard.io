@@ -73,7 +73,7 @@ def get_light_intensity():
   return "89 lx" #temporary placeholders
 
 
-def generate_token(size=7):
+def generate_token(size=13):
   random = str(uuid.uuid4())
   random = random.upper()
   random = random.replace("-","")
